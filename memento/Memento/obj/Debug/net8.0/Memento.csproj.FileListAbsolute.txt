@@ -1,0 +1,14 @@
+E:\projects\chash\sandbox\system design\memento\Memento\bin\Debug\net8.0\Memento.exe
+E:\projects\chash\sandbox\system design\memento\Memento\bin\Debug\net8.0\Memento.deps.json
+E:\projects\chash\sandbox\system design\memento\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+E:\projects\chash\sandbox\system design\memento\Memento\bin\Debug\net8.0\Memento.dll
+E:\projects\chash\sandbox\system design\memento\Memento\bin\Debug\net8.0\Memento.pdb
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\Memento.dll
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\refint\Memento.dll
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\Memento.pdb
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+E:\projects\chash\sandbox\system design\memento\Memento\obj\Debug\net8.0\ref\Memento.dll
