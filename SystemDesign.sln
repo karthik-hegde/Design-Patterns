@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateVendingMachine", "StateVendingMachine\StateVendingMachine.csproj", "{B71496D5-7EAC-4992-B4E2-1D311A8F8C17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StratergyPattern", "StratergyPattern\StratergyPattern.csproj", "{C5DF0AE9-1C70-4083-B984-EE3AD131DBEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,5 +16,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5DF0AE9-1C70-4083-B984-EE3AD131DBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DF0AE9-1C70-4083-B984-EE3AD131DBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DF0AE9-1C70-4083-B984-EE3AD131DBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DF0AE9-1C70-4083-B984-EE3AD131DBEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
