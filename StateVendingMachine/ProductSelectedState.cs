@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.PortableExecutable;
-using System.Threading.Tasks;
-
 namespace StateVendingMachine
 {
     public class ProductSelectedState : IVendingState
@@ -24,7 +18,7 @@ namespace StateVendingMachine
 
         public void DispenseProduct()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Insert money");
         }
 
         public void InsertMoney(decimal amount)
@@ -45,12 +39,12 @@ namespace StateVendingMachine
 
         public void Refill(string productCode, int quantity, decimal? price)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Cannot refill when a transaction is in progress");
         }
 
         public void SelectProduct(string productCode)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Product already selected, restart transaction to select a different product");
         }
     }
 }
