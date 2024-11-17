@@ -1,0 +1,15 @@
+E:\projects\chash\sandbox\system design\StateVendingMachine\bin\Debug\net8.0\StateVendingMachine.exe
+E:\projects\chash\sandbox\system design\StateVendingMachine\bin\Debug\net8.0\StateVendingMachine.deps.json
+E:\projects\chash\sandbox\system design\StateVendingMachine\bin\Debug\net8.0\StateVendingMachine.runtimeconfig.json
+E:\projects\chash\sandbox\system design\StateVendingMachine\bin\Debug\net8.0\StateVendingMachine.dll
+E:\projects\chash\sandbox\system design\StateVendingMachine\bin\Debug\net8.0\StateVendingMachine.pdb
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\StateVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\StateVendingMachine.AssemblyInfoInputs.cache
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\StateVendingMachine.AssemblyInfo.cs
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\StateVendingMachine.csproj.CoreCompileInputs.cache
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\StateVendingMachine.sourcelink.json
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\StateVendingMachine.dll
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\refint\StateVendingMachine.dll
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\StateVendingMachine.pdb
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\StateVendingMachine.genruntimeconfig.cache
+E:\projects\chash\sandbox\system design\StateVendingMachine\obj\Debug\net8.0\ref\StateVendingMachine.dll
