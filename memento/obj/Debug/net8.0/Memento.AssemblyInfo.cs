@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Memento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7370cc05b348174c1fd2c2ab5771f254a9acfaaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15db240faab4e6987a58032800a959a1404b9968")]
 [assembly: System.Reflection.AssemblyProductAttribute("Memento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Memento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

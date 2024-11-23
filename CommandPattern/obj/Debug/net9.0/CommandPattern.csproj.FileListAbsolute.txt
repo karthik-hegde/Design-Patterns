@@ -1,0 +1,15 @@
+E:\projects\chash\sandbox\system design\CommandPattern\bin\Debug\net9.0\CommandPattern.exe
+E:\projects\chash\sandbox\system design\CommandPattern\bin\Debug\net9.0\CommandPattern.deps.json
+E:\projects\chash\sandbox\system design\CommandPattern\bin\Debug\net9.0\CommandPattern.runtimeconfig.json
+E:\projects\chash\sandbox\system design\CommandPattern\bin\Debug\net9.0\CommandPattern.dll
+E:\projects\chash\sandbox\system design\CommandPattern\bin\Debug\net9.0\CommandPattern.pdb
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\CommandPattern.AssemblyInfoInputs.cache
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\CommandPattern.AssemblyInfo.cs
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\CommandPattern.csproj.CoreCompileInputs.cache
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\CommandPattern.sourcelink.json
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\CommandPattern.dll
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\refint\CommandPattern.dll
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\CommandPattern.pdb
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\CommandPattern.genruntimeconfig.cache
+E:\projects\chash\sandbox\system design\CommandPattern\obj\Debug\net9.0\ref\CommandPattern.dll
