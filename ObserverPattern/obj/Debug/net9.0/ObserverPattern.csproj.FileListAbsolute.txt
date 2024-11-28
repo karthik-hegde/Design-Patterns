@@ -1,0 +1,15 @@
+E:\projects\chash\sandbox\system design\ObserverPattern\bin\Debug\net9.0\ObserverPattern.exe
+E:\projects\chash\sandbox\system design\ObserverPattern\bin\Debug\net9.0\ObserverPattern.deps.json
+E:\projects\chash\sandbox\system design\ObserverPattern\bin\Debug\net9.0\ObserverPattern.runtimeconfig.json
+E:\projects\chash\sandbox\system design\ObserverPattern\bin\Debug\net9.0\ObserverPattern.dll
+E:\projects\chash\sandbox\system design\ObserverPattern\bin\Debug\net9.0\ObserverPattern.pdb
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfoInputs.cache
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfo.cs
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ObserverPattern.csproj.CoreCompileInputs.cache
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ObserverPattern.sourcelink.json
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ObserverPattern.dll
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\refint\ObserverPattern.dll
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
+E:\projects\chash\sandbox\system design\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll
