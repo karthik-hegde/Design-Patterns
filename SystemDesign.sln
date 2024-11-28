@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StratergyPattern", "Strater
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{E6CB70D4-4FEB-4BCB-93F8-5635B3A67453}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplatePattern", "TemplatePattern\TemplatePattern.csproj", "{532A8E54-A070-42BC-87AB-EF87BE3A9AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{5083E639-F0DE-4D00-AD69-070CB7B0C4A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,5 +32,13 @@ Global
 		{E6CB70D4-4FEB-4BCB-93F8-5635B3A67453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6CB70D4-4FEB-4BCB-93F8-5635B3A67453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6CB70D4-4FEB-4BCB-93F8-5635B3A67453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532A8E54-A070-42BC-87AB-EF87BE3A9AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532A8E54-A070-42BC-87AB-EF87BE3A9AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532A8E54-A070-42BC-87AB-EF87BE3A9AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532A8E54-A070-42BC-87AB-EF87BE3A9AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5083E639-F0DE-4D00-AD69-070CB7B0C4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5083E639-F0DE-4D00-AD69-070CB7B0C4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5083E639-F0DE-4D00-AD69-070CB7B0C4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5083E639-F0DE-4D00-AD69-070CB7B0C4A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
