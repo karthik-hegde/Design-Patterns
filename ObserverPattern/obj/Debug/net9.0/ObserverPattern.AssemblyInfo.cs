@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObserverPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeb2fee23e3a3ee312203ee6a87f576c091a5409")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08f95d4ebd0fe4ba9855fc2e7995442be6e8aad9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObserverPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObserverPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
