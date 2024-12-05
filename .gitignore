@@ -405,3 +405,5 @@ obj/
 *.user
 *.temp
 **/Debug/
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
