@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "Mediator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainPattern", "ChainPattern\ChainPattern.csproj", "{A3D2A8A4-ACBF-4230-A709-A7DBE3090CFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{163239A8-95E7-4477-92FC-3D19D709332F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,5 +54,9 @@ Global
 		{A3D2A8A4-ACBF-4230-A709-A7DBE3090CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3D2A8A4-ACBF-4230-A709-A7DBE3090CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3D2A8A4-ACBF-4230-A709-A7DBE3090CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{163239A8-95E7-4477-92FC-3D19D709332F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163239A8-95E7-4477-92FC-3D19D709332F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163239A8-95E7-4477-92FC-3D19D709332F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163239A8-95E7-4477-92FC-3D19D709332F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
